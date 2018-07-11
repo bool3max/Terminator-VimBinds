@@ -6,6 +6,8 @@
   go_left = <Alt>h
   go_right = <Alt>l
   go_up = <Alt>k
+  split_horiz = <Primary><Alt>o
+  split_vert = <Primary><Alt>e
   layout_launcher = <Shift>asciitilde
   line_down = <Super>j
   line_up = <Super>k
