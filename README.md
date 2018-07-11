@@ -29,6 +29,9 @@ A configuration file for Terminator including Vim-like navigation keybindings
   - Switch to Tab 1-9: Alt + 1-9
   - Move 1 Line Up: Super(win) + K
   - Move 1 Like Down: Super(win) + J
+- Splitting: 
+  - Split vertically: Ctrl + Alt + E
+  - Split Horizontally: Ctrl + Alt + O
 - Open Layout Launcher: Shift + Tilde
 
 **NOTE**: I had to rebind the `Open Layout Launcher` action to something arbitrary because it previously used one of the above desired shortcuts. Feel free to rebind it.
