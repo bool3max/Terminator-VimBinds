@@ -20,13 +20,14 @@ A configuration file for Terminator including Vim-like navigation keybindings
 - Navigation: 
   - Next Terminal: Ctrl + Tab
   - Previous Terminal: Ctrl + Shift + Tab
-  - Terminal Left/Down/Up/Right: Alt + H/J/K/L
+  - Terminal Left/Down/Up/Riht: Alt + H/J/K/L
+  - Switch to Terminal 1-9: Alt + 1-9
   - Open New Tab: Ctrl + T
   - Next Tab: Ctrl + L
   - Previous Tab: Ctrl + H
   - Move Current Tab Left: Ctrl + Shift + H
   - Move Current Tab Right: Ctrl + Shift + L
-  - Switch to Tab 1-9: Alt + 1-9
+  - Switch to Tab 1-9: Ctrl + 1-9
   - Move 1 Line Up: Super(win) + K
   - Move 1 Like Down: Super(win) + J
 - Splitting: 
